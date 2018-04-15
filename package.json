@@ -38,6 +38,7 @@
     "temp-directory": "./coverage/.nyc_output"
   },
   "dependencies": {
+    "generic-names": "^1.0.2",
     "log4js": "^1.1.1"
   },
   "devDependencies": {
@@ -50,7 +51,6 @@
     "@types/sinon": "^2.1.2",
     "@types/tape": "^4.2.29",
     "faucet": "0.0.1",
-    "generic-names": "^1.0.2",
     "karma-typescript": "latest",
     "nyc": "^11.1.0",
     "postcss": "^5.2.16",
